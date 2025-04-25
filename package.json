@@ -1,0 +1,15 @@
+{
+  "name": "pipeable",
+  "version": "0.1.0",
+  "description": "Pipeable (fluent) utils",
+  "license": "ISC",
+  "author": "jonas-thuvesson-winberg",
+  "type": "commonjs",
+  "main": "index.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.4"
+  }
+}
